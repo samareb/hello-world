@@ -1,3 +1,2 @@
 # hello-world
-First try
-second try
+third try
